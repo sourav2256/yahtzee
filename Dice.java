@@ -10,7 +10,7 @@ public class Dice {
 
     public static void main(String[] args) {
         for (int i = 0; i < 1_00; i++){
-            //firstRoll();
+            firstRoll();
             thriceRoll();
         }
     }
